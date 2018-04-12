@@ -31,7 +31,7 @@ int main()
     }
     printf("\n");
 
-    printf("Min element: %d\n", min);
+     printf("Min element: %d\n", min);
 
     return 0;
 }
